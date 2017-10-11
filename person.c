@@ -18,3 +18,5 @@ int main(void)
 	printf("This is you ;) \n %s %s \n %s \n %s \n", name, surname, monthofbirth, hometown);
 	return 0;
 }
+
+//comment
